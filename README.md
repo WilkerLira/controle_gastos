@@ -1,6 +1,6 @@
 # controle_gastos
 
-A new Flutter project.
+Projeto usando Flutter/Dart, com auxílio do Chatgpt e Qwen
 
 ## Getting Started
 

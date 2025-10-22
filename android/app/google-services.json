@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895702498929",
+    "project_id": "controle-de-gastos-9d720",
+    "storage_bucket": "controle-de-gastos-9d720.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895702498929:android:3a7657ca293f081c8565d0",
+        "android_client_info": {
+          "package_name": "com.example.controle_gastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpSwC7PezjDDmohKAZoIpH1f14jY7UxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

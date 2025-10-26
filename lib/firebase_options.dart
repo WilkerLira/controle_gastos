@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAeLI0Dt1LwrLdreOFua3gR8s1hKMEv_ls',
-    appId: '1:895702498929:web:3d13b17918d707f08565d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '895702498929',
-    projectId: 'controle-de-gastos-9d720',
+    projectId: '',
     authDomain: 'controle-de-gastos-9d720.firebaseapp.com',
     storageBucket: 'controle-de-gastos-9d720.firebasestorage.app',
     measurementId: 'G-0EPQFBBJSY',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAlpSwC7PezjDDmohKAZoIpH1f14jY7UxI',
-    appId: '1:895702498929:android:3a7657ca293f081c8565d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '895702498929',
-    projectId: 'controle-de-gastos-9d720',
+    projectId: '',
     storageBucket: 'controle-de-gastos-9d720.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAxmdQeagQfYxJZlNKNhGVnSCciNOnPtxY',
-    appId: '1:895702498929:ios:579692d4513b83e08565d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '895702498929',
-    projectId: 'controle-de-gastos-9d720',
+    projectId: '',
     storageBucket: 'controle-de-gastos-9d720.firebasestorage.app',
     iosBundleId: 'com.example.controleGastos',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAxmdQeagQfYxJZlNKNhGVnSCciNOnPtxY',
-    appId: '1:895702498929:ios:579692d4513b83e08565d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '895702498929',
-    projectId: 'controle-de-gastos-9d720',
+    projectId: '',
     storageBucket: 'controle-de-gastos-9d720.firebasestorage.app',
     iosBundleId: 'com.example.controleGastos',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAeLI0Dt1LwrLdreOFua3gR8s1hKMEv_ls',
-    appId: '1:895702498929:web:5918d278e38abff08565d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '895702498929',
-    projectId: 'controle-de-gastos-9d720',
+    projectId: '',
     authDomain: 'controle-de-gastos-9d720.firebaseapp.com',
     storageBucket: 'controle-de-gastos-9d720.firebasestorage.app',
     measurementId: 'G-HZY3527TXM',

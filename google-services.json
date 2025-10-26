@@ -2,12 +2,12 @@
   "project_info": {
     "project_number": "221822325259",
     "project_id": "controle-gastos-86b7a",
-    "storage_bucket": "controle-gastos-86b7a.firebasestorage.app"
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:221822325259:android:007f4d371dabd44a2a6d0e",
+        "mobilesdk_app_id": "e",
         "android_client_info": {
           "package_name": "com.example.controle_gastos"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDvOIkLugssJVGIcjDxkF4Q4qMzzelG6W8"
+          "current_key": ""
         }
       ],
       "services": {

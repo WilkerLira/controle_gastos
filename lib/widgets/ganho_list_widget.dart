@@ -7,10 +7,10 @@ class GanhoListWidget extends StatefulWidget {
   const GanhoListWidget({super.key});
 
   @override
-  State<GanhoListWidget> createState() => _GanhoListWidgetState();
+  State<GanhoListWidget> createState() => GanhoListWidgetState();
 }
 
-class _GanhoListWidgetState extends State<GanhoListWidget> {
+class GanhoListWidgetState extends State<GanhoListWidget> {
   final TextEditingController valorController = TextEditingController();
   final TextEditingController dataController = TextEditingController();
   DateTime? dataSelecionada;

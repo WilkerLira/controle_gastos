@@ -7,10 +7,10 @@ class GastoListWidget extends StatefulWidget {
   const GastoListWidget({super.key});
 
   @override
-  State<GastoListWidget> createState() => _GastoListWidgetState();
+  State<GastoListWidget> createState() => GastoListWidgetState();
 }
 
-class _GastoListWidgetState extends State<GastoListWidget> {
+class GastoListWidgetState extends State<GastoListWidget> {
   final TextEditingController valorController = TextEditingController();
   final TextEditingController dataController = TextEditingController();
   DateTime? dataSelecionada;
